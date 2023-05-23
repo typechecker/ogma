@@ -1,0 +1,6 @@
+# Warnings currently triggered by your code
+- ignore: {name: "Empty single-line comment"} # 49 hints
+- ignore: {name: "Redundant bracket"} # 4 hints
+- ignore: {name: "Use intercalate"} # 10 hints
+- ignore: {name: "Use map once"} # 4 hints
+- ignore: {name: "Use zipWith"} # 1 hint
